@@ -81,7 +81,9 @@ The boxplot reveals one genre that a much wider ROI range and higher median with
 Despite being a competitive market, a new studio can make headway into the movie business by understanding release trends regarding year and dates, genres, and their impact on revenue. This notebook aids in that analysis by utilizing a jupyter notebook and Python in a clear and distinctive way that is easily reproducible.
 Based on our analysis, we recommend:
 
-                                ![Horror movies](https://github.com/user-attachments/assets/49027d7c-fecd-40e9-af17-11f201c647b2)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/49027d7c-fecd-40e9-af17-11f201c647b2" alt="Horror movies">
+</div>
 
 1. Investing in the Horror genre because it has a much wider ROI range and is statistically significant compared to other genres
 2. Releasing movies in the second quarter of the year (April to June) since the studio is likely to earn ore worldwide gross
